@@ -1,1 +1,0 @@
-kursBitcoin=float(input('))
